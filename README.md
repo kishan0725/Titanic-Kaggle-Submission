@@ -12,7 +12,7 @@ This is what it looked like when I submitted it:
 ![image](https://user-images.githubusercontent.com/36665975/66574632-32b53600-eb92-11e9-90af-04e99d2bfbde.png)
 
 
-This got me a score of 0.78468 which was good enough for top 38% at the time of submission.
+This got me a score of 0.78468 which was good enough for top 30% at the time of submission.
 
 I hope you can take from my submission and add your own ideas to try and get an even higher score!
 
